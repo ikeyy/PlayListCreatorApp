@@ -1,0 +1,9 @@
+C:\Users\Ed Kristian\source\repos\PlaylistCreatorApp\LoggerLibrary\bin\Debug\netstandard2.0\LoggerLibrary.deps.json
+C:\Users\Ed Kristian\source\repos\PlaylistCreatorApp\LoggerLibrary\bin\Debug\netstandard2.0\LoggerLibrary.dll
+C:\Users\Ed Kristian\source\repos\PlaylistCreatorApp\LoggerLibrary\bin\Debug\netstandard2.0\LoggerLibrary.pdb
+C:\Users\Ed Kristian\source\repos\PlaylistCreatorApp\LoggerLibrary\obj\Debug\netstandard2.0\LoggerLibrary.csprojAssemblyReference.cache
+C:\Users\Ed Kristian\source\repos\PlaylistCreatorApp\LoggerLibrary\obj\Debug\netstandard2.0\LoggerLibrary.AssemblyInfoInputs.cache
+C:\Users\Ed Kristian\source\repos\PlaylistCreatorApp\LoggerLibrary\obj\Debug\netstandard2.0\LoggerLibrary.AssemblyInfo.cs
+C:\Users\Ed Kristian\source\repos\PlaylistCreatorApp\LoggerLibrary\obj\Debug\netstandard2.0\LoggerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ed Kristian\source\repos\PlaylistCreatorApp\LoggerLibrary\obj\Debug\netstandard2.0\LoggerLibrary.dll
+C:\Users\Ed Kristian\source\repos\PlaylistCreatorApp\LoggerLibrary\obj\Debug\netstandard2.0\LoggerLibrary.pdb

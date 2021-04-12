@@ -1,0 +1,12 @@
+C:\Users\Ed Kristian\source\repos\PlaylistCreatorApp\PlaylistCreatorLibrary\bin\Debug\netstandard2.0\PlaylistCreatorLibrary.deps.json
+C:\Users\Ed Kristian\source\repos\PlaylistCreatorApp\PlaylistCreatorLibrary\bin\Debug\netstandard2.0\PlaylistCreatorLibrary.dll
+C:\Users\Ed Kristian\source\repos\PlaylistCreatorApp\PlaylistCreatorLibrary\bin\Debug\netstandard2.0\PlaylistCreatorLibrary.pdb
+C:\Users\Ed Kristian\source\repos\PlaylistCreatorApp\PlaylistCreatorLibrary\obj\Debug\netstandard2.0\PlaylistCreatorLibrary.csprojAssemblyReference.cache
+C:\Users\Ed Kristian\source\repos\PlaylistCreatorApp\PlaylistCreatorLibrary\obj\Debug\netstandard2.0\PlaylistCreatorLibrary.AssemblyInfoInputs.cache
+C:\Users\Ed Kristian\source\repos\PlaylistCreatorApp\PlaylistCreatorLibrary\obj\Debug\netstandard2.0\PlaylistCreatorLibrary.AssemblyInfo.cs
+C:\Users\Ed Kristian\source\repos\PlaylistCreatorApp\PlaylistCreatorLibrary\obj\Debug\netstandard2.0\PlaylistCreatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ed Kristian\source\repos\PlaylistCreatorApp\PlaylistCreatorLibrary\obj\Debug\netstandard2.0\PlaylistCreatorLibrary.dll
+C:\Users\Ed Kristian\source\repos\PlaylistCreatorApp\PlaylistCreatorLibrary\obj\Debug\netstandard2.0\PlaylistCreatorLibrary.pdb
+C:\Users\Ed Kristian\source\repos\PlaylistCreatorApp\PlaylistCreatorLibrary\bin\Debug\netstandard2.0\LoggerLibrary.dll
+C:\Users\Ed Kristian\source\repos\PlaylistCreatorApp\PlaylistCreatorLibrary\bin\Debug\netstandard2.0\LoggerLibrary.pdb
+C:\Users\Ed Kristian\source\repos\PlaylistCreatorApp\PlaylistCreatorLibrary\obj\Debug\netstandard2.0\PlaylistCreatorLibrary.csproj.CopyComplete
